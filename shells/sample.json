@@ -1,0 +1,16 @@
+[
+    {
+        "name": "nameA",
+        "values": [
+            "valueA",
+            "valueB"
+        ]
+    },
+    {
+        "name": "nameB",
+        "values": [
+            "valueC",
+            "valueD"
+        ]
+    }
+]
